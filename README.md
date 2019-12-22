@@ -1,6 +1,6 @@
 # chandan
 student attendance management system can be used to record student attendance and can get the attendance report
-you can use it for education purpose,and update as per ur requirement.
+you can use it for educational purpose,and update as per ur requirement.
 you can get the username and password in the database
 
 Project Name : Student attendance  Management System
